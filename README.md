@@ -1,6 +1,6 @@
 # Hug Example Using Zappa
 
-This is a super simple hug example using zappa. The only real trick here was knowing to set
+This is a super simple [hug](http://www.hug.rest/) example using [Zappa](https://github.com/Miserlou/Zappa). The only real trick here was knowing to set
 the app setting in the zappa_settings.json file. Hug provides a magic method for the wsgi compatible
 server that should be given to Zappa.  
 
