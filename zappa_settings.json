@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "app_function": "app.__hug_wsgi__",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "s3_bucket": "zappa-123456789"
+    }
+}
